@@ -1,0 +1,7 @@
+com\cg\iter\services\ProductService.class
+com\cg\iter\dao\ProductDAOImpl.class
+com\cg\iter\entities\Product.class
+com\cg\iter\dao\ProductDAO.class
+com\cg\iter\services\ProductServiceImpl.class
+com\cg\iter\controllers\ProductController.class
+com\cg\iter\controllers\ProductController2.class
